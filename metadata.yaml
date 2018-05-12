@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: http://en.wikipedia.org/wiki/Henry_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37425#Within-the-Rim-and-Other-Essays
 gutenberg_issued: '2011-09-14'
 gutenberg_type: Text
 identifiers:
