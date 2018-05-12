@@ -1,0 +1,30 @@
+_repo: Within-the-Rim-and-Other-Essays_37425
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37425-h/images/cover.jpg
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2011-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: 'Within the rim -- Refugees in Chelsea -- The American Volunteer
+  Motor-Ambulance Corps in France: a letter to the editor of an American journal --
+  France -- The long words.'
+title: Within the Rim, and Other Essays, 1914-15
+url: http://www.gutenberg.org/ebooks/37425
